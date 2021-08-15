@@ -1,0 +1,499 @@
+
+
+
+ 
+
+.bgimg{
+background-image: url('images/bnn.jpg');
+background-size: 100% 100%;
+background-attachment: fixed;
+width: 100%;
+height: 626px;
+}
+
+.headerset{
+
+	padding-top: 200px;
+	box-sizing: border-box;
+}
+
+.headerset h2{
+
+	font-size: 42px;
+}
+
+.headerset h1{
+
+	font-size: 62px;
+	font-weight: bold;
+}
+
+.navbar-dark a{
+font-size: 15px;
+
+}
+
+.navbar-dark a.navbar-brand{
+
+	font-size: 25px;
+}
+
+.servises{
+
+	padding: 100px 0px 60px;
+	height: 500px;
+}
+
+
+.imageseting{
+	margin-top: 50px;
+}
+
+
+
+.portfolioseting{
+
+	padding: 60px 0px 100px;
+	height: 1000px;
+	width: 100%;
+	background-color: #e9ecef;
+}
+.portfolio h2{
+font-size: px;
+font-weight: bold;
+	
+}
+
+.card{
+	margin-top: 70px;
+	box-sizing: border-box;
+	height: 300px;
+	padding: 20px;
+}
+.card img{
+height: 100%;
+	box-sizing: border-box;
+}
+
+.ourteam{
+
+	padding: 150px 0px 60px;
+	height: 700px;
+	width: 100%;
+}
+
+.teamsetting{
+	margin-top: 70px;
+}
+
+
+.aboutus{
+padding: 100px 0px 100px;
+	height: 700px;
+	width: 100%;
+	background-color: #e9ecef;
+
+}
+
+.about{
+
+	margin-top: 70px;
+} 
+
+
+.about p{
+
+	margin-top: 40px;
+} 
+
+
+.socialicon i{
+	margin-top: 40px;
+	
+}
+.socialicon a{
+	color: #a71818;
+
+}
+
+
+.contact{
+
+	padding: 40px 0px 20px;
+	
+	width: 100%;
+}
+
+
+
+.contact h6{
+
+	
+}
+.form-setting{
+		
+	height: 400px;
+	width: 100%;
+	
+}
+
+
+
+
+
+.footerseting{
+	height: 50px;
+	background-color: #e9ecef;
+}
+.footerseting h6{
+	line-height: 50px;
+	}
+
+
+
+
+  @media screen and (max-width: 1199px){
+.headerset h2{
+
+	font-size: 40px;
+color:green;
+font-weight: bold;
+}
+
+.headerset h1{
+
+	font-size: 55px;
+	font-weight: bold;
+	
+}
+.servises{
+	height: 600px;
+	margin-bottom: 10px;
+} 
+
+.servises h2{
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+
+} 
+.portfolioseting{
+
+	
+	height: 800px;
+	
+}
+
+.card-body h2{
+
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+
+	
+}
+
+.ourteam{
+
+	
+	height: 500px;
+	
+}
+.ourteam h1{
+	font-size: 30px;
+}
+
+.aboutus{
+
+	height: 700px;
+	
+	background-color: #e9ecef;
+
+}
+
+.contact{
+
+	
+	height: 250px;
+}
+.form-setting{
+		
+	height: 400px;
+	
+}
+ }
+
+  @media screen and (max-width: 991px){
+.headerset h2{
+
+	font-size: 35px;
+color:yellow;
+font-weight: bold;
+}
+
+.headerset h1{
+
+	font-size: 50px;
+	font-weight: bold;
+	
+}
+.servises{
+	height: 600px;
+	margin-bottom: 10px;
+} 
+
+.servises h2{
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+
+} 
+.portfolioseting{
+
+	
+	height: 700px;
+	
+}
+
+.card-body h2{
+
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+
+	
+}
+
+.ourteam{
+
+	
+	height: 400px;
+	
+}
+.ourteam h1{
+	font-size: 30px;
+}
+
+.aboutus{
+
+	height: 800px;
+	
+	background-color: #e9ecef;
+
+}
+
+.contact{
+
+	
+	height: 250px;
+}
+.form-setting{
+		
+	height: 400px;
+	
+}
+
+ }
+
+
+
+ @media screen and (max-width: 767px){
+.headerset h2{
+
+	font-size: 30px;
+color:red;
+font-weight: bold;
+}
+
+.headerset h1{
+
+	font-size: 45px;
+	font-weight: bold;
+	
+}
+.servises{
+	height: 900px;
+	margin-bottom: 10px;
+} 
+
+.servises h2{
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+
+} 
+.portfolioseting{
+
+	
+	height: 700px;
+	
+}
+
+.card-body h2{
+
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+
+	
+}
+
+.ourteam{
+
+	
+	height: 400px;
+	
+}
+.ourteam h1{
+	font-size: 30px;
+}
+
+.aboutus{
+
+	height: 1100px;
+	
+	background-color: #e9ecef;
+
+}
+
+.contact{
+
+	
+	height: 250px;
+}
+.form-setting{
+		
+	height: 850px;
+	
+}
+
+ }
+
+ @media screen and (max-width: 575px){
+.headerset h2{
+
+	font-size: 30px;
+color:pink;
+font-weight: bold;
+}
+
+.headerset h1{
+
+	font-size: 45px;
+	font-weight: bold;
+	
+}
+.servises{
+	height: 1100px;
+	margin-bottom: 10px;
+} 
+
+.portfolioseting{
+
+	
+	height: 4100px;
+	
+}
+.ourteam{
+
+	
+	height: 1200px;
+	
+}
+.ourteam h1{
+	font-size: 30px;
+}
+
+.aboutus{
+
+	height: 1100px;
+	
+	background-color: #e9ecef;
+
+}
+
+.contact{
+
+	
+	height: 250px;
+}
+.form-setting{
+		
+	height: 850px;
+	
+}
+
+ }
+
+
+  @media screen and (max-width: 480px){
+
+.headerset h2{
+
+	font-size: 30px;
+color:red;
+font-weight: bold;
+}
+
+.headerset h1{
+
+	font-size: 40px;
+	font-weight: bold;
+	
+}
+.servises{
+	height: 1100px;
+	margin-bottom: 10px;
+} 
+
+.portfolioseting{
+
+	
+	height: 3400px;
+	
+}
+.ourteam{
+
+	
+	height: 1200px;
+	
+}
+.ourteam h1{
+	font-size: 30px;
+}
+
+.aboutus{
+
+	height: 1100px;
+	
+	background-color: #e9ecef;
+
+}
+
+.contact{
+
+	
+	height: 250px;
+}
+.form-setting{
+		
+	height: 850px;
+	
+}
+
+}
+
+#myBtn{ 
+	
+	position: fixed;
+	bottom: 20px;
+	right: 40px;
+	z-index: 99;
+	border: none;
+	color: #fff;
+	background-color: blue;
+	padding: 10px;
+	border-radius: 10px;
+
+
+}
